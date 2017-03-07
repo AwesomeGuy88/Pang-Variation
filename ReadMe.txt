@@ -2,11 +2,6 @@
     CONSOLE APPLICATION : Pang_test Project Overview
 ========================================================================
 
-AppWizard has created this Pang_test application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your Pang_test application.
-
 
 Pang_test.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
@@ -33,6 +28,15 @@ StdAfx.h, StdAfx.cpp
 
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
+
+	Dependencies
+		SFML V2.4.2
+		All dlls will be required to run this application.
+		
+	Main Deviations from original tutorial:
+		- Audio and many images are created from scratch.
+		- Splash Screen fade in and fade out.
+
 
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
