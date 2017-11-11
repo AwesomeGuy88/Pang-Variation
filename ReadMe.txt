@@ -1,10 +1,9 @@
 Pang Variation
 
-![Alt text](https://i.imgur.com/oGswSDR.png "Gameplay")
-
-![Alt text](https://i.imgur.com/J8UEDA6.png "Main Menu")
-
-![Alt text](https://i.imgur.com/OLeGkAD.png "Splash Screen")
+ScreenShots
+https://i.imgur.com/oGswSDR.png
+https://i.imgur.com/J8UEDA6.png
+https://i.imgur.com/OLeGkAD.png
 
 Features
  - Object Oriented C++
