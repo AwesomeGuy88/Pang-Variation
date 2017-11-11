@@ -1,10 +1,5 @@
 Pang Variation
 
-ScreenShots
-https://i.imgur.com/oGswSDR.png
-https://i.imgur.com/J8UEDA6.png
-https://i.imgur.com/OLeGkAD.png
-
 Features
  - Object Oriented C++
  - Beginner level game programming
@@ -16,14 +11,15 @@ Copy of popular game "Pang". use Up, Down, Left and Right arrow keys
 to control a paddle to hit the ball against an AI. Exit to return
 back to the screen. 
 
+ScreenShots
+https://i.imgur.com/oGswSDR.png
+https://i.imgur.com/J8UEDA6.png
+https://i.imgur.com/OLeGkAD.png
 
-Developer Tools
-- Windows OS
-- Visual Studio 2017
-- SFML 2.4.2
-- beepbox.co
-- Gimp 2
-
+Link for executable
+As the setup can be quite complicated, I've also included a link
+to the executable for anyone that wants to try it out.
+https://drive.google.com/file/d/1c2yWxsbygjoaXKF7m4w4PS-1_zgWydhZ/view?usp=sharing
 
 Setup Instructions for the Project
 1) Install Visual Studio 2017 
@@ -37,12 +33,12 @@ to the project solution
 *You may have issues with detecting the precompiled header. Set it
 to create a new precompiled header rather than use the existing one.
 
-
-Link for executable
-As the setup can be quite complicated, I've also included a link
-to the executable for anyone that wants to try it out.
-https://drive.google.com/file/d/1c2yWxsbygjoaXKF7m4w4PS-1_zgWydhZ/view?usp=sharing
-
+Developer Tools
+- Windows OS
+- Visual Studio 2017
+- SFML 2.4.2
+- beepbox.co
+- Gimp 2
 
 How I developed this?
 The steps and resources I've used are listed.
@@ -59,7 +55,6 @@ http://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition-The-Introducti
  - Created my own logo
  - Altering images in the game
  - Additions to splash screen code
- 
  
 Motivation?
 I've learned programming through my Engineering degree but am also
